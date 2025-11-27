@@ -47,3 +47,7 @@ og kjør: npm install gh-pages --save-dev
 ![alt text](image.png)
 
 ![alt text](image-1.png)
+
+## REPO FOR MAL AV JOHN WO:
+
+Repo til mal for Vite/GH-Pages: https://github.com/johnwo90-JL/vite-project-example/
